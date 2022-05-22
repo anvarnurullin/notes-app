@@ -15,7 +15,7 @@ function App() {
           {
             id: '0',
             title: 'Заметка',
-            body: 'Создайте свою *первую* **заметку**!\n\n![](https://i.imgur.com/zaM39bJ.png)',
+            body: '### Создайте свою *первую* **заметку**!\nВы можете использовать синтаксис Markdown для своего удобства.\n![](https://i.imgur.com/zaM39bJ.png)',
             lastModified: Date.now(),
           },
         ]
